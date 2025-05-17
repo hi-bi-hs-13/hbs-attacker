@@ -1,46 +1,76 @@
-# 🚀 HBS Attacker (Public Preview)
+# 💣 HBS Attacker (Private Edition)
 
-**HBS Attacker** is a premium, high-performance traffic manipulation and attack orchestration toolkit built for advanced users, testers, and researchers.
+> Welcome to the **public preview** of the **HBS Attacker** project — a next-gen modular traffic manipulation & simulation framework built for serious analysts, private networks, and elite researchers.
 
-> ⚠️ This is a **preview repository**.  
-> The full version of the project is **commercial** and access to the source code is **restricted**.
-
----
-
-## 🔒 About the Full Version
-
-The private version includes:
-
-- ✅ 1000+ High-quality verified proxies (auto-rotation, health-check)
-- ⚡️ Real-time attack orchestration system (Minecraft & HTTP layers)
-- 🧠 Smart adaptive bypassing techniques (firewall-aware)
-- 🧰 Modular shell-based architecture
-- 🔄 Built-in hotkey monitoring system (RShift+Insert)
-- 📈 Traffic analysis & logging system with CLI + Python tools
-
-> 🎯 Designed for **controlled simulation**, **stress testing**, and **defensive environment evaluation**.
+⚠️ **The full version of this project is private, paid, and not available in this repository.**
 
 ---
 
-## 💼 Licensing & Access
+## 🔒 Premium Features (Private Access Only)
 
-Access to the full HBS Attacker codebase is **available to authorized partners, clients, or sponsors**.
+The private version of **HBS Attacker** includes:
 
-If you're interested in:
+- 🧠 Adaptive Smart Bypass Engine (with dynamic protocol shifting)
+- 🌐 1000+ active rotating proxies with real-time health-checking
+- 🧪 Advanced Layer 3/4/7 scenario simulation
+- 🎮 Minecraft-Aware attack modes (Fake handshake, spoofed login, stress cycles)
+- 🧬 Obfuscation-ready modules for stealth deployments
+- 🦠 Decoy traffic generator (phantom traffic injection engine)
+- ⛓️ Full ProxyChain support (randomized + manual config)
+- 🛠️ Encrypted configuration system (AES hybrid format)
+- 🎯 Discord API resolver & payload linker (customizable)
+- 🧊 FreezeMode™ (locks downstream sessions during tests)
+- 🚦 Real-time console & graphical log analyzer (Python + Bash hybrid)
 
-- Purchasing a **license**
-- Requesting a **demo**
-- Becoming a **contributor**
-
-📩 Please reach out to the maintainer via GitHub or the contact listed in the project documentation.
+…and even **secret experimental modules** you won’t find anywhere else 😉
 
 ---
 
-## 🧪 Demo Availability
+## 📥 Purchase & Contact
 
-We may provide a **limited functionality demo** on request.  
-Please note that no attack functionality will be included in public builds.
+Access is **only available** to vetted buyers and collaborators.
+
+To request access, licensing, or ask questions, contact via:
+
+📨 **Discord**: `he_bi_sl`  
+🖼️ Profile Pic:  
+![he_bi_sl_13](https://raw.githubusercontent.com/hi-bi-hs-13/hi-bi-hs-13/main/assets/he_bi_sl_profile_preview.png)  
+*(For verification only — not clickable in GitHub markdown)*
+
+💵 **Pricing starts at 29 USD for individual access.**  
+Team bundles and enterprise licenses available on request.
 
 ---
 
-© 2025 • HBS Attacker Project – All rights reserved.
+## ⚠️ Why You Don’t See Code Here?
+
+This repository serves only as a **preview and information portal**.  
+We strictly protect our methods and algorithms to:
+
+- ❌ Prevent misuse
+- 🔐 Maintain obfuscation integrity
+- ✅ Ensure exclusivity for buyers
+
+---
+
+## 🧬 Version Highlights
+
+**v1.0 - Core System Deployment**
+
+- 🔹 Modular engine architecture  
+- 🔹 Smart attack toggle via hotkeys (RShift + Insert)  
+- 🔹 Discord-friendly logs & triggers  
+- 🔹 Optimized for low-latency field use  
+
+> Next versions will introduce AI-assisted payload switching, TOR circuit mapping, and encrypted live proxy reallocation.
+
+---
+
+## ⚖️ Legal & Ethical Disclaimer
+
+HBS Attacker is intended **strictly for legal and authorized testing** within controlled environments.  
+Use it responsibly. We do not condone misuse.
+
+---
+
+© 2025 • HBS Attacker Project — All rights reserved.
