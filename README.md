@@ -33,11 +33,10 @@ Access is **only available** to vetted buyers and collaborators.
 To request access, licensing, or ask questions, contact via:
 
 📨 **Discord**: `he_bi_sl`  
-🖼️ Profile Pic:  
-![he_bi_sl_13](https://raw.githubusercontent.com/hi-bi-hs-13/hi-bi-hs-13/main/assets/he_bi_sl_profile_preview.png)  
+
 *(For verification only — not clickable in GitHub markdown)*
 
-💵 **Pricing starts at 29 USD for individual access.**  
+💵 **Pricing starts at 5 USD for individual access.**  
 Team bundles and enterprise licenses available on request.
 
 ---
